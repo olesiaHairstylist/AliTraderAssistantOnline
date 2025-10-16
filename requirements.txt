@@ -3,4 +3,5 @@ aiogram
 requests
 python-dotenv
 flask
+psutil
 
