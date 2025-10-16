@@ -1,0 +1,6 @@
+pyTelegramBotAPI
+aiogram
+requests
+python-dotenv
+flask
+
