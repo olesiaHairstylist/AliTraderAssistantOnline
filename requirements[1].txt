@@ -1,5 +1,0 @@
-Flask
-pyTelegramBotAPI
-aiogram
-requests
-python-dotenv
